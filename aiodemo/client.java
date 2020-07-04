@@ -70,6 +70,8 @@ public class client implements Runnable{
         c1.write("c1 aaa");
         c2.write("c2 bbbb");
         c3.write("c3 ccccc");
+
+        System.out.println("lllllll");
     }
 
 }
