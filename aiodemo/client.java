@@ -71,7 +71,7 @@ public class client implements Runnable{
         c2.write("c2 bbbb");
         c3.write("c3 ccccc");
 
-        System.out.println("lllllll");
+        System.out.println("lllllssll");
     }
 
 }
